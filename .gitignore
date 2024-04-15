@@ -1,0 +1,40 @@
+# Compiled files
+/target/
+
+# Remove documentation
+/target/doc/
+
+# Dependency directories
+**/vendor/
+
+# Backup files
+**/*.bk
+
+# Ignore .env files
+.env
+
+# Ignore .log files
+*.log
+
+# Ignore IDE project files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore all lock files
+Cargo.lock
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Linux specific
+*.swp
+*~
+
+# Other files to ignore
+/.vs/
