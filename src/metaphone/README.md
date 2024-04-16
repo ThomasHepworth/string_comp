@@ -15,8 +15,7 @@ Information taken from both the [Informatica Documentation](https://docs.informa
 
 ## Letter based rules table for Metaphone
 
-```
-| Input | Returns | Condition                                              |
+| **Input** | **Returns** | **Condition**                                              |
 |-------|---------|--------------------------------------------------------|
 | B     | n/a     | when it follows M                                      |
 | B     | B       | in all other cases                                     |
@@ -56,7 +55,6 @@ Information taken from both the [Informatica Documentation](https://docs.informa
 | Y     | Y       | when followed by A, E, I, O, or U                      |
 | Y     | n/a     | in all other cases                                     |
 | Z     | S       | in all cases                                           |
-```
 
 <br>
 
